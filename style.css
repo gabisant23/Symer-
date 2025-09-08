@@ -1,5 +1,5 @@
 body {
-    color: rgb(197, 51, 18);
+    color: rgba(223, 27, 157, 1);
     background: rgb(231, 195, 195);
     margin: 0px;
     font-family: "Rubik Wet Paint", system-ui;
@@ -9,7 +9,7 @@ header {
     border-bottom: solid 2px rgb(216, 127, 105);
     padding: 20px;
     font-size: 32px;
-    color: rgb(139, 54, 38);
+    color: rgb(231, 195, 195);
 }
 
 .background {
@@ -22,11 +22,11 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    border-bottom: solid 2px rgb(207, 30, 24);
+    border-bottom: solid 2px rgb(190, 88, 148);
 }
 
 .video {
-    border: solid 2px rgb(184, 92, 42);
+    border: solid 2px rgb(220, 156, 226);
 }
 
 .chamada-texto {
@@ -42,13 +42,13 @@ header {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    color: rgb(110, 20, 174);
+    color: rgb(190, 21, 168);
     /* Define a cor do texto */
 }
 
 .cursor {
     display: inline-block;
-    color: rgb(255, 0, 0);
+    color: rgb(231, 148, 213);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
