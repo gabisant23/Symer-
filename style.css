@@ -17,7 +17,7 @@ header {
 }
 
 .chamada {
-    background: black;
+    background: rgb(228, 184, 215);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
